@@ -1,16 +1,15 @@
-## Hi there 👋
+## About Me
 
-<!--
-**reg1z/reg1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a security engineer building slop filters for AI-assisted development. 
 
-Here are some ideas to get you started:
+### What I'm working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[artifactr](https://github.com/reg1z/artifactr)** — CLI tool for managing AI project artifacts. Published on PyPI.
+- **[arch-dev-cloud](https://github.com/reg1z/arch-dev-cloud)** — Reproducible Arch Linux dev environments deployable to GCP, AWS, Azure.
+- **[scap-project](https://github.com/reg1z/scap-project)** — Automated SCAP/STIG compliance scanning with Docker + OpenSCAP.
+- 🔨 Currently building a SAST scanning tool for AI development workflows.
+
+### Certs
+
+Security+ · Net+ · Pentest+ · CySA+ · SSCP
+
