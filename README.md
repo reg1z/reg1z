@@ -1,6 +1,6 @@
-## About Me
+### Who am I?
 
-I'm a security engineer building slop filters for AI-assisted development. 
+A security engineer building slop filters for AI-assisted development. 
 
 ### What I'm working on:
 
