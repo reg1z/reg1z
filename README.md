@@ -1,6 +1,6 @@
-### Who am I?
+Security Engineer.
 
-A security engineer building slop filters for AI-assisted development. 
+Current Interest: Building slop filters for AI-assisted development. 
 
 ### What I'm working on:
 
@@ -9,7 +9,4 @@ A security engineer building slop filters for AI-assisted development.
 - **[scap-project](https://github.com/reg1z/scap-project)** — SCAP/STIG compliance scanning showcase with Docker + OpenSCAP.
 - 🔨 Currently building a SAST scanning tool for AI development workflows.
 
-### Certs
-
-Security+ · Net+ · Pentest+ · CySA+ · SSCP
 
