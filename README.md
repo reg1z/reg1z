@@ -1,6 +1,8 @@
 I tear down, build, and secure Linux environments.
  
 Security engineer. Agent security, privacy, harness engineering.
+
+![](https://raw.githubusercontent.com/r3b1s/media-assets/refs/heads/main/brand/outward.webp)
  
 ### Working on
 - **[pi-repair-layer](https://github.com/r3b1s/pi-repair-layer)** -- repairs the
