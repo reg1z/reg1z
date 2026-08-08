@@ -14,10 +14,8 @@ Security engineer. Agent security, privacy, harness engineering.
   agentic workflows. A place to `--dangerously-skip-permissions` & `--yolo` while minimizing
   blast radius. Inspired by [omaterm](https://github.com/omacom-io/omaterm).
 
-### Interests
-- Autonomous agents -- yeah they're memes; wanna fight about it? Hermes is kinda neat.
-- Slop filters -- review tooling that catches what AI-assisted development gets
-  wrong before it lands.
+### Current Interests
+- Deterministic filters -- tooling that catches what AI-assistance gets dangerously, even maliciously, wrong before it lands.
 - Qubes OS -- loving the sandboxing guarantees, and that it turns a workstation into an intuitive impromptu router.
 
 ### Background
